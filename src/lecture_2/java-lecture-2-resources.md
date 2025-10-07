@@ -1,4 +1,4 @@
-## Java
+### Java
 
 https://www.datacamp.com/doc/java/classes-and-objects
 
@@ -36,4 +36,13 @@ https://www.programiz.com/java-programming/polymorphism
 
 https://www.programiz.com/java-programming/encapsulation
 
+
+### IntelliJ IDEA Shortcuts and Productivity Tips
+https://blog.jetbrains.com/idea/2020/05/write-code-faster-using-live-templates/
+
+https://www.jetbrains.com/guide/java/tips/generate-getters-and-setters/
+
+https://www.jetbrains.com/help/idea/generating-code.html#generate-constructors
+
+https://www.jetbrains.com/help/idea/generating-code.html#generate-getters-setters
 
